@@ -1,0 +1,6 @@
+{
+  "name": "FinCore Bank - Institutional Treasury & Mobile Banking",
+  "description": "Pixel-perfect mobile and desktop institutional banking experience featuring real-time data sync, dark mode, FedNow rails, cards management, biometric dual-auth, and admin supervision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
